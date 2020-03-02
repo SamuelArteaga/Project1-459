@@ -22,7 +22,6 @@ public class TxHandler {
      */
     public boolean isValidTx(Transaction tx) {
         // IMPLEMENT THIS
-        return false;
     }
 
     /**
